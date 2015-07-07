@@ -2,9 +2,6 @@
 django-hernanramirez
 ========================
 
-![Django 1.8.2](http://img.shields.io/badge/Django-1.8.2-brightgreen.svg)
-[![MIT License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](http://opensource.org/licenses/MIT)
-
 A simple personalized project template for Django 1.8.2 
 
 Forked from the original [django-two-scoops-project](https://github.com/twoscoops/django-twoscoops-project)
@@ -33,7 +30,7 @@ Virtualenv Only
 First, make sure you are using virtualenv (http://www.virtualenv.org). Once
 that's installed, create your virtualenv::
 
-    $ virtualenv veen_PROJECT_NAME
+    $ virtualenv venv_PROJECT_NAME
 
 You will also need to ensure that the virtualenv has the project directory
 added to the path. Adding the project directory will allow `django-admin.py` to
