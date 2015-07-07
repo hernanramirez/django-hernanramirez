@@ -2,9 +2,13 @@
 django-hernanramirez
 ========================
 
+
+![Django 1.8.2](http://img.shields.io/badge/Django-1.8.2-brightgreen.svg)
+[![MIT License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](http://opensource.org/licenses/MIT)
+
 A simple personalized project template for Django 1.8.2 
 
-Forked from the original `django-two-scoops-project <https://github.com/twoscoops/django-twoscoops-project>`_
+Forked from the original [django-two-scoops-project](https://github.com/twoscoops/django-twoscoops-project)
 
 To use this project follow these steps:
 
@@ -27,7 +31,7 @@ python environment.  If on Linux or Mac OS X, you can also use virtualenvwrapper
 Virtualenv Only
 ---------------
 
-First, make sure you are using `virtualenv <http://www.virtualenv.org>`_. Once
+First, make sure you are using [virtualenv](http://www.virtualenv.org). Once
 that's installed, create your virtualenv::
 
     $ virtualenv venv_PROJECT_NAME
@@ -39,7 +43,7 @@ be able to change settings using the `--settings` flag.
 Virtualenv with virtualenvwrapper
 ------------------------------------
 
-In Linux and Mac OSX, you can install `virtualenvwrapper <http://virtualenvwrapper.readthedocs.org/en/latest/>`_,
+In Linux and Mac OSX, you can install [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/),
 which will take care of managing your virtual environments and adding the
 project path to the `site-directory` for you::
 
@@ -93,6 +97,6 @@ Services expect a requirements.txt file in the root of projects.*
 Acknowledgements
 ================
 
-Two Scoops of Django .. figure:: http://twoscoops.smugmug.com/Two-Scoops-Press-Media-Kit/i-C8s5jkn/0/O/favicon-152.png :alt: "Two Scoops Logo")
+![Two Scoops of Django](http://twoscoops.smugmug.com/Two-Scoops-Press-Media-Kit/i-C8s5jkn/0/O/favicon-152.png "Two Scoops Logo")
 
-This project follows best practices as espoused in `Two Scoops of Django: Best Practices for Django 1.6 <http://twoscoopspress.org/products/two-scoops-of-django-1-6>`_.
+This project follows best practices as espoused in [Two Scoops of Django: Best Practices for Django 1.6](http://twoscoopspress.org/products/two-scoops-of-django-1-6).
