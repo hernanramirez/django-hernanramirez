@@ -1,4 +1,3 @@
-========================
 django-hernanramirez
 ========================
 
@@ -12,10 +11,10 @@ Forked from the original [django-two-scoops-project](https://github.com/twoscoop
 
 To use this project follow these steps:
 
-#. Create your working environment
-#. Install Django
-#. Create the new project using the django-hernanramirez template
-#. Install additional dependencies
+  Create your working environment
+  Install Django
+  Create the new project using the django-hernanramirez template
+  Install additional dependencies
 
 *note: these instructions show creation of a project called "PROJECT_NAME".  You
 should replace this name with the actual name of your project.*
