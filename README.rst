@@ -27,7 +27,7 @@ python environment.  If on Linux or Mac OS X, you can also use virtualenvwrapper
 Virtualenv Only
 ---------------
 
-First, make sure you are using virtualenv (http://www.virtualenv.org). Once
+First, make sure you are using `virtualenv <http://www.virtualenv.org>`_. Once
 that's installed, create your virtualenv::
 
     $ virtualenv venv_PROJECT_NAME
@@ -39,7 +39,7 @@ be able to change settings using the `--settings` flag.
 Virtualenv with virtualenvwrapper
 ------------------------------------
 
-In Linux and Mac OSX, you can install virtualenvwrapper (http://virtualenvwrapper.readthedocs.org/en/latest/),
+In Linux and Mac OSX, you can install `virtualenvwrapper <http://virtualenvwrapper.readthedocs.org/en/latest/>`_,
 which will take care of managing your virtual environments and adding the
 project path to the `site-directory` for you::
 
@@ -50,7 +50,7 @@ project path to the `site-directory` for you::
 Using virtualenvwrapper with Windows
 ----------------------------------------
 
-There is a special version of virtualenvwrapper for use with Windows (https://pypi.python.org/pypi/virtualenvwrapper-win).::
+There is a special version of virtualenvwrapper for use with `Windows <https://pypi.python.org/pypi/virtualenvwrapper-win>`_.::
 
     > mkdir PROJECT_NAME
     > mkvirtualenv PROJECT_NAME-dev
@@ -95,4 +95,4 @@ Acknowledgements
 
 ![Two Scoops of Django](http://twoscoops.smugmug.com/Two-Scoops-Press-Media-Kit/i-C8s5jkn/0/O/favicon-152.png "Two Scoops Logo")
 
-This project follows best practices as espoused in [Two Scoops of Django: Best Practices for Django 1.6](http://twoscoopspress.org/products/two-scoops-of-django-1-6).
+This project follows best practices as espoused in `Two Scoops of Django: Best Practices for Django 1.6 <http://twoscoopspress.org/products/two-scoops-of-django-1-6>`_.
