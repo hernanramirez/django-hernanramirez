@@ -70,7 +70,7 @@ Creating your project
 To create a new Django project called '**PROJECT_NAME**' using
 django-hernanramirez, run the following command::
 
-    $ django-admin.py startproject --template=https://github.com/hernanramirez/django-hernanramirez/archive/master.zip --extension=py,rst,html PROJECT_NAME_project
+    $ django-admin.py startproject --template=https://github.com/hernanramirez/django-hernanramirez/archive/develop.zip --extension=py,rst,html PROJECT_NAME_project
 
 
 Installation of Dependencies
