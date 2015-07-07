@@ -93,6 +93,7 @@ Services expect a requirements.txt file in the root of projects.*
 Acknowledgements
 ================
 
-![Two Scoops of Django](http://twoscoops.smugmug.com/Two-Scoops-Press-Media-Kit/i-C8s5jkn/0/O/favicon-152.png "Two Scoops Logo")
+Two Scoops of Django .. image:: http://twoscoops.smugmug.com/Two-Scoops-Press-Media-Kit/i-C8s5jkn/0/O/favicon-152.png
+                        :alt: "Two Scoops Logo")
 
 This project follows best practices as espoused in `Two Scoops of Django: Best Practices for Django 1.6 <http://twoscoopspress.org/products/two-scoops-of-django-1-6>`_.
