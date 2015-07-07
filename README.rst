@@ -4,7 +4,7 @@ django-hernanramirez
 
 A simple personalized project template for Django 1.8.2 
 
-Forked from the original [django-two-scoops-project](https://github.com/twoscoops/django-twoscoops-project)
+Forked from the original `django-two-scoops-project <https://github.com/twoscoops/django-twoscoops-project>`_
 
 To use this project follow these steps:
 
